@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="282px" height="283px" viewBox="0 0 282 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>oval2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M116,7 C117.092595,2.85777925 125.342595,0.786668871 140.75,0.786668871 C156.157405,0.786668871 164.240738,2.85777925 165,7 L165,213 L116,213 L116,7 Z" id="path-1"></path>
+        <polygon id="path-2" points="-1.0658141e-14 6.21724894e-15 16.581688 23.545997 25 35.5 33.1856432 23.3920694 49 -5.61328761e-13"></polygon>
+    </defs>
+    <g id="oval2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle fill="#F3F2F1" cx="141" cy="142" r="141"></circle>
+        <g id="Rectangle">
+            <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path stroke="#979797" stroke-width="0.3" d="M116.15,7.01963128 L116.15,212.85 L164.850002,212.85 L164.852458,7.02704417 C164.113546,2.99584269 156.0768,0.936668871 140.75,0.936668871 C125.440869,0.936668871 117.23627,2.9904808 116.15,7.01965644 Z M116.15,7.01965644 C116.148329,7.02585198 116.146676,7.03205219 116.145039,7.03825707 L116.15,7 L116.15,7.01963128 Z" stroke-linejoin="square" fill-opacity="0.837296196" fill="#F6AE60"></path>
+        </g>
+        <path d="M129.014141,200 C132.963199,200 136.875152,204.333333 140.75,213 L116.179039,213 C120.786717,204.333333 125.065084,200 129.014141,200 Z" id="polygon2" fill="#F4C5AE"></path>
+        <path d="M152.875,199 C156.916667,199 160.958333,203.666667 165,213 L140.75,213 C144.791667,203.666667 148.833333,199 152.875,199 Z" id="polygon3" fill="#F4C5AE"></path>
+        <ellipse id="oval3" fill="#7D7B7B" cx="141.5" cy="266.5" rx="6.5" ry="2.5"></ellipse>
+        <g id="Line-2" transform="translate(116.000000, 213.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use fill="#F4C5AE" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <polygon id="Path" fill="#3AA488" fill-rule="evenodd" mask="url(#mask-3)" points="16 23 34.9475785 23 25.5894678 37.2380594"></polygon>
+        </g>
+        <path d="M129,214 C135.627417,214 140.685883,213.552285 140.685883,213 C140.685883,212.447715 135.627417,212 129,212 C122.372583,212 117.197052,212.025604 116.236755,212.976501 C115.276459,213.927399 122.372583,214 129,214 Z" id="Oval" fill="#F4C5AE"></path>
+        <path d="M152.850988,214 C159.478405,214 164.536871,213.552285 164.536871,213 C164.536871,212.447715 159.478405,212 152.850988,212 C146.223571,212 140.543762,212.640161 140.109292,212.793151 C139.674822,212.946141 146.223571,214 152.850988,214 Z" id="Oval" fill="#F4C5AE"></path>
+    </g>
+</svg>
